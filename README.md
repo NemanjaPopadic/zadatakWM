@@ -1,0 +1,2 @@
+# zadatakWM
+WM zadatak
